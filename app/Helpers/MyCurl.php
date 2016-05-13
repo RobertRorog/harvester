@@ -21,7 +21,7 @@ class MyCurl{
         $this->timeout  = $timeout;
     }
         
-    public function getData() {
+    public function getDataHtml() {
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, $this->url);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
