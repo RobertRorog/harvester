@@ -29,5 +29,4 @@ if (defined('ENVIRONMENT')) {
 
 
     
-require SMVC.'app/Core/routes.php';
-
+require 'app/Core/routes.php';
