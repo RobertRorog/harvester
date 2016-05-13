@@ -1,0 +1,11 @@
+{
+    "name": "robert/harvester",
+    "description": "zadanie testowe",
+    "authors": [
+        {
+            "name": "Robert Roróg",
+            "email": "norton@lowiczak.pl"
+        }
+    ],
+    "require": {}
+}
